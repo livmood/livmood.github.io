@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a student studying Software Engineering at NYU, a mobile app developer, and a bookworm! I'm passionate about data science, tech for social good, and solving interesting problems. On this site, you can check out some of my past projects, read my blog, and learn more about me.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
