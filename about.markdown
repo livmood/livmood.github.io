@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+subtitle: Hey! I'm Olivia :)
 permalink: /about/
 ---
 

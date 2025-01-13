@@ -21,17 +21,14 @@
 title: "Olivia Moody"
 email: "Obm238@nyu.edu"
 description: >- # this means to ignore newlines until "baseurl:"
-  Hey, I'm Olivia! I'm a student studying Software Engineering at NYU, 
-  a mobile app developer, and a bookworm! I'm passionate about data science, 
-  tech for social good, and solving interesting problems. On this site, you 
-  can check out some of my past projects, read my blog, and learn more about me.
+  Olivia Moody's Personal Website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://livmood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: daattali/beautiful-jekyll@6.0.1
+theme: minima
 plugins:
   - jekyll-feed
 
