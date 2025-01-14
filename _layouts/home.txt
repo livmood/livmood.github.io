@@ -1,7 +1,11 @@
 ---
 layout: base
 ---
-<img src="./images/site_background.png" alt="Website banner">
+<img src="./images/site_banner.png" alt="Website banner" useMap="#testmap" width="1920">
+
+<map name="testmap">
+  <area shape="rect" coords="160,225,490,281" alt="Satisfaction" href="about">
+</map>
 
 <div class="home">
   {%- if page.title -%}
